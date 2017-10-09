@@ -1,5 +1,5 @@
 {
-  "name": "adapt-cli",
+  "name": "adaptv4-cli",
   "version": "2.0.5",
   "description": "Command line tools for Adapt",
   "main": "./lib/cli.js",
@@ -40,10 +40,10 @@
     "test": "grunt test"
   },
   "author": "",
-  "repository": "http://github.com/adaptlearning/adapt-cli",
+  "repository": "http://github.com/oliverfoster/adaptv4-cli",
   "license": "GPL-3.0",
   "preferGlobal": true,
   "bin": {
-    "adapt": "./bin/adapt"
+    "adaptv4": "./bin/adaptv4"
   }
 }
