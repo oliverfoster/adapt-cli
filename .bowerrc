@@ -1,3 +1,10 @@
 {
-    "registry": "http://adapt-bower-repository.herokuapp.com/"
+  "registry": {
+    "register": "http://adapt-bower-repository-v4.herokuapp.com/",
+    "publish": "http://adapt-bower-repository-v4.herokuapp.com/",
+    "search": [
+        "http://adapt-bower-repository-v4.herokuapp.com/",
+        "http://adapt-bower-repository.herokuapp.com/"
+    ]
+  }
 }
